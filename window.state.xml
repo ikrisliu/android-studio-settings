@@ -1,0 +1,28 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.5120.2880@192dpi" x="2560" y="600" />
+    <location key="find.popup.0.0.5120.2880@192dpi" x="2088" y="320" />
+    <size key="GridCell.Tab.0.left.0.0.5120.2880@192dpi" width="4956" height="690" />
+    <size key="GridCell.Tab.0.center.0.0.5120.2880@192dpi" width="4956" height="690" />
+    <size key="GridCell.Tab.0.right.0.0.5120.2880@192dpi" width="4956" height="690" />
+    <size key="GridCell.Tab.0.bottom.0.0.5120.2880@192dpi" width="4956" height="690" />
+    <size key="find.popup.0.0.5120.2880@192dpi" width="1298" height="1668" />
+    <size key="GridCell.Tab.1.left.0.0.5120.2880@192dpi" width="4956" height="690" />
+    <size key="GridCell.Tab.1.center.0.0.5120.2880@192dpi" width="4956" height="690" />
+    <size key="GridCell.Tab.1.right.0.0.5120.2880@192dpi" width="4956" height="690" />
+    <size key="GridCell.Tab.1.bottom.0.0.5120.2880@192dpi" width="4956" height="690" />
+  </component>
+  <component name="WindowManager">
+    <frame x="6" y="27" width="2548" height="1411" extendedState="6" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state width="648" height="139" key="ShowUsagesActions.dimensionServiceKey" timestamp="1729237712745">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="648" height="139" key="ShowUsagesActions.dimensionServiceKey/0.25.2560.1415" timestamp="1729237712745" />
+    <state x="1280" y="300" key="WELCOME_SCREEN" timestamp="1729222351994">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="1280" y="300" key="WELCOME_SCREEN/0.25.2560.1415" timestamp="1729222351994" />
+  </component>
+</application>
