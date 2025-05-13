@@ -1,0 +1,5 @@
+<application>
+  <component name="com.nbadal.ktlint.KtlintApplicationSettings">
+    <option name="showBanner" value="false" />
+  </component>
+</application>
