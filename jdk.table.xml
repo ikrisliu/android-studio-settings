@@ -84,7 +84,7 @@
     <jdk version="2">
       <name value="21" />
       <type value="JavaSDK" />
-      <version value="java version &quot;21.0.3&quot;" />
+      <version value="Eclipse Temurin 21.0.3 - aarch64" />
       <homePath value="/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home" />
       <roots>
         <annotationsPath>
@@ -246,7 +246,7 @@
     <jdk version="2">
       <name value="jbr-21" />
       <type value="JavaSDK" />
-      <version value="JetBrains Runtime 21.0.3 - aarch64" />
+      <version value="JetBrains Runtime 21.0.6 - aarch64" />
       <homePath value="$APPLICATION_HOME_DIR$/jbr/Contents/Home" />
       <roots>
         <annotationsPath>
