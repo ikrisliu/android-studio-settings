@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="span" />
+    <option name="mostRecentlyUsed" value="primary_requests" />
     <option name="nonFavorites">
       <list>
-        <option value="span" />
-        <option value="render" />
-        <option value="is:crash " />
         <option value="primary_requests" />
-        <option value="app_launch" />
         <option value="package:mine " />
+        <option value="render" />
+        <option value="span" />
+        <option value="is:crash " />
+        <option value="app_launch" />
       </list>
     </option>
   </component>
