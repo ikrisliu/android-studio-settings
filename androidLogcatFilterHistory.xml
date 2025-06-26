@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine span" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine span" />
         <option value="package:mine " />
         <option value="package:mine telemetry.farfetch.net.cn" />
         <option value="package:mine okhttp" />
@@ -11,7 +13,6 @@
         <option value="package:mine https://tele" />
         <option value="package:mine .duration" />
         <option value="package:mine OkHttpInstrumentation" />
-        <option value="package:mine span" />
         <option value=".duration" />
         <option value="primary_requests" />
         <option value="span" />
