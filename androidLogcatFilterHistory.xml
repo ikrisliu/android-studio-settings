@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Telemetry: Recording" />
+    <option name="mostRecentlyUsed" value="package:mine LoggingMetricExporter" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine Telemetry: Recording" />
-        <option value="package:mine Telemetry:" />
-        <option value="package:mine " />
+        <option value="package:mine LoggingMetricExporter" />
         <option value="package:mine primary_requests" />
         <option value="package:mine app_launch" />
+        <option value="package:mine " />
+        <option value="package:mine Telemetry: Recording" />
+        <option value="package:mine Telemetry:" />
         <option value="package:mine span" />
         <option value="package:mine telemetry.farfetch.net.cn" />
         <option value="package:mine okhttp" />
@@ -22,7 +23,6 @@
         <option value="span" />
         <option value="render" />
         <option value="is:crash " />
-        <option value="app_launch" />
       </list>
     </option>
   </component>
