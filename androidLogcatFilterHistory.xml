@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine LoggingMetricExporter" />
+    <option name="mostRecentlyUsed" value="package:mine DetailedMetricExporter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine DetailedMetricExporter" />
         <option value="package:mine LoggingMetricExporter" />
         <option value="package:mine primary_requests" />
         <option value="package:mine app_launch" />
@@ -22,7 +23,6 @@
         <option value="primary_requests" />
         <option value="span" />
         <option value="render" />
-        <option value="is:crash " />
       </list>
     </option>
   </component>
