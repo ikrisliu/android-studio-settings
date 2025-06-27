@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine span" />
+    <option name="mostRecentlyUsed" value="package:mine primary_requests" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine primary_requests" />
+        <option value="package:mine app_launch" />
         <option value="package:mine span" />
         <option value="package:mine " />
         <option value="package:mine telemetry.farfetch.net.cn" />
