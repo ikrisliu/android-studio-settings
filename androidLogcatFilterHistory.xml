@@ -3,8 +3,6 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
-        <option value="package:mine app_" />
-        <option value="package:mine app_launch" />
       </list>
     </option>
   </component>
